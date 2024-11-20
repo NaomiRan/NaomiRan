@@ -1,9 +1,11 @@
-### Hi there 👋, Naomi Ran
+### Hi there 👋, I'm Naomi Ran
 #### front-end and back-end developer
 ![front-end and back-end developer](https://github.com/NaomiRan/NaomiRan/blob/main/Image_20241119185412.jpg)
 
 a skilled developer blending technical expertise with standout interpersonal skills. Proficient in Python, JavaScript, SQL, and React, I craft scalable solutions while bridging gaps between teams and users. Where others see code, I see connections—delivering software that not only works but truly resonates.
 
+### SKills and Experiences:
+* [![My Skills](https://skillicons.dev/icons?i=C++,React,nodejs,figma&theme=light)](https://skillicons.dev)
 Skills: C++/Python / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on working women community 
