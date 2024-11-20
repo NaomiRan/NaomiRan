@@ -5,9 +5,8 @@
 a skilled developer blending technical expertise with standout interpersonal skills. Proficient in Python, JavaScript, SQL, and React, I craft scalable solutions while bridging gaps between teams and users. Where others see code, I see connections—delivering software that not only works but truly resonates.
 
 ### SKills and Experiences:
-* [![My Skills](https://skillicons.dev/icons?i=nodejs,c)](https://skillicons.dev)NodeJS
-*  ⚛️React
-*  💻HTML, CSS
+*  ⚛️React, C++, Python
+*  💻HTML, CSS, NodeJS
 *  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,nodejs,react,c,css" />
