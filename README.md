@@ -8,6 +8,11 @@ a skilled developer blending technical expertise with standout interpersonal ski
 * [![My Skills](https://skillicons.dev/icons?i=nodejs,c)](https://skillicons.dev)NodeJS
 *  ⚛️React
 *  💻HTML, CSS
+*  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,nodejs,react,c,css" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on working women community 
 
